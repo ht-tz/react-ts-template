@@ -1,0 +1,7 @@
+# Ignore the packaged file
+# 根据你的实际情况配置不需要ESlint校验的内容
+public/*
+node_modules/*
+# src/pages/app_portrait/*
+# history
+.vscode
